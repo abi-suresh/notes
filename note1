@@ -1,1 +1,80 @@
 https://chatgpt.com/c/6a551aa4-6c20-83ee-a01f-15e283054cfc
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data": {
+    "name": "dataset"
+  },
+
+  "transform": [
+    {
+      "filter": "datum.Metrics=='charts requested'"
+    }
+  ],
+
+  "layer": [
+
+    {
+
+      "transform": [
+        {
+          "filter": "datum.Version=='Actuals+Forecast'"
+        }
+      ],
+
+      "mark": {
+        "type": "bar",
+        "cornerRadiusTopLeft": 3,
+        "cornerRadiusTopRight": 3,
+        "size": 18
+      },
+
+      "encoding": {
+
+        "x": {
+          "field": "Month",
+          "type": "ordinal",
+          "sort": {
+            "field": "Month No",
+            "order": "ascending"
+          },
+          "title": null
+        },
+
+        "xOffset": {
+          "field": "Year"
+        },
+
+        "y": {
+          "aggregate": "sum",
+          "field": "Amount",
+          "type": "quantitative",
+          "title": null
+        },
+
+        "color": {
+          "value": "#16244D"
+        },
+
+        "tooltip": [
+
+          {
+            "field": "Year"
+          },
+
+          {
+            "field": "Month"
+          },
+
+          {
+            "field": "Amount"
+          }
+
+        ]
+
+      }
+
+    }
+
+  ]
+}
