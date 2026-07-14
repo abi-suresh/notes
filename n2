@@ -1,0 +1,82 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "description": "Conduent Financial Dashboard",
+
+  "data": {
+    "name": "dataset"
+  },
+
+  "transform": [
+
+    {
+      "calculate":"datum.Year + '-' + datum.Month",
+      "as":"YearMonth"
+    }
+
+  ],
+
+  "layer":[
+
+  ]
+
+}
+
+
+"layer":[
+
+{
+
+"transform":[
+
+{
+
+"filter":"datum.Version=='Actuals+Forecast'"
+
+}
+
+],
+
+"mark":{
+
+"type":"bar",
+
+"size":18,
+
+"cornerRadiusTopLeft":4,
+
+"cornerRadiusTopRight":4
+
+},
+
+"encoding":{
+
+"x":{
+
+"field":"YearMonth",
+
+"type":"ordinal"
+
+},
+
+"y":{
+
+"aggregate":"sum",
+
+"field":"Amount",
+
+"type":"quantitative"
+
+},
+
+"color":{
+
+"value":"#0E1D63"
+
+}
+
+}
+
+}
+
+]
