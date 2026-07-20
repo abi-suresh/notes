@@ -1,9 +1,4 @@
 https://chatgpt.com/share/6a552420-307c-83ee-8672-3bf856a1be72
 
 https://chatgpt.com/share/6a5685db-5dc8-83e8-ae21-377219095889
-YoY Display =
-IF(
-    [YoY 2027 vs 2026] >= 0,
-    "▲ " & FORMAT([YoY 2027 vs 2026], "+0%;-0%"),
-    "▼ " & FORMAT([YoY 2027 vs 2026], "+0%;-0%")
-)
+https://chatgpt.com/share/6a552420-307c-83ee-8672-3bf856a1be72
