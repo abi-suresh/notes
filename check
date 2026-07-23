@@ -2,3 +2,186 @@ https://chatgpt.com/share/6a552420-307c-83ee-8672-3bf856a1be72
 
 https://chatgpt.com/share/6a5685db-5dc8-83e8-ae21-377219095889
 https://chatgpt.com/share/6a552420-307c-83ee-8672-3bf856a1be72
+Yes! That is actually a much better approach and it makes business sense.
+
+Instead of:
+
+🟦 Achieved
+
+⬜ Remaining
+
+
+you want:
+
+🔵 Actual
+
+🟣 Forecast
+
+🟦 Remaining Budget
+
+
+So the donut becomes:
+
+Budget = Actual + Forecast + Remaining Budget
+
+This means the three slices always add up to 100% of the Budget.
+
+Example 1 (Negative Variance)
+
+Budget = 172.6K
+
+Actual = 70K
+
+Forecast = 71.3K
+
+Total Actual + Forecast = 141.3K
+
+Remaining Budget:
+
+172.6 − 141.3 = 31.3K
+
+The donut becomes:
+
+🔵 Actual = 70K
+
+🟣 Forecast = 71.3K
+
+🟦 Remaining Budget = 31.3K
+
+
+The center shows:
+
+-18%
+vs Budget
+
+This tells the user:
+
+> We have achieved 141.3K and still need 31.3K to reach the budget.
+
+
+
+
+---
+
+Example 2 (Positive Variance)
+
+Budget = 100K
+
+Actual = 60K
+
+Forecast = 50K
+
+Actual + Forecast = 110K
+
+Remaining Budget:
+
+100 − 110 = -10K
+
+Since Remaining Budget cannot be negative:
+
+Remaining Budget = 0
+
+The donut becomes:
+
+🔵 Actual = 60K
+
+🟣 Forecast = 50K
+
+🟦 Remaining Budget = 0
+
+
+The center shows:
+
++10%
+vs Budget
+
+
+---
+
+DAX Measures
+
+Actual
+
+Actual Slice =
+[Actual 2026]
+
+
+---
+
+Forecast
+
+Forecast Slice =
+[Forecast 2026]
+
+
+---
+
+Remaining Budget
+
+Remaining Budget Slice =
+MAX(
+    [Budget 2026] - [Actual 2026] - [Forecast 2026],
+    0
+)
+
+The MAX(..., 0) ensures that if Actual + Forecast exceeds Budget, the remaining slice becomes 0 instead of a negative value.
+
+
+---
+
+Create the category table
+
+Donut Category =
+DATATABLE(
+    "Category", STRING,
+    {
+        {"Actual"},
+        {"Forecast"},
+        {"Remaining"}
+    }
+)
+
+
+---
+
+Create the donut value measure
+
+Donut Value =
+SWITCH(
+    SELECTEDVALUE('Donut Category'[Category]),
+    "Actual", [Actual Slice],
+    "Forecast", [Forecast Slice],
+    "Remaining", [Remaining Budget Slice]
+)
+
+
+---
+
+Use in the Donut Chart
+
+Legend
+
+Donut Category[Category]
+
+Values
+
+Donut Value
+
+Colors
+
+🔵 Actual → Dark Blue
+
+🟣 Forecast → Purple
+
+🟦 Remaining Budget → Cyan
+
+
+This approach gives you a donut where:
+
+Actual and Forecast are shown as separate achieved portions.
+
+The third slice represents only the budget that is still left to achieve.
+
+If you exceed the budget, the remaining slice disappears.
+
+The center KPI (Variance %) still shows the percentage above or below budget. This is a clear business representation and works well with slicers.
