@@ -3,3 +3,583 @@ https://chatgpt.com/share/6a72373c-c1b8-83e8-86ed-503ac80f3a60?ogimg=plain
 https://chatgpt.com/share/6a74e29a-2900-83ee-bd83-904cc20a406c?ogimg=plain
 
 temp:https://chatgpt.com/share/6a7cafbd-3598-83ee-9f5f-94153a537722?ogimg=plain
+Yes, your current flow is good, but I would make one small change to make it tell a stronger business story.
+
+Your current flow
+
+2026 Assumptions → Optimization → Client Discussion → Next Steps
+
+It works, but there is one missing link: Risk. Since you already have Risk information, I would include it in the story rather than treating it as just another item under Optimization.
+
+My recommended flow ⭐
+
+1. 2026 Assumptions
+
+“What is our starting point?”
+
+Show:
+
+Conversion Rate
+
+Fee Rate
+
+Contract Date
+
+
+This gives the reader the basic 2026 business context.
+
+↓
+
+2. Optimization & Risk
+
+“Based on the current situation, where can we improve and what should we watch?”
+
+Split this into:
+
+🟢 Opportunities
+
+Expansion
+
+Medicaid
+
+Medicare
+
+
+🔴 Risks
+
+Risk 1
+
+Risk 2
+
+Risk 3
+
+
+This is better than having Optimization and Risk as completely separate major sections because they answer the same business question:
+
+> What should we focus on?
+
+
+
+↓
+
+3. Client Discussion
+
+“What did we actually talk about?”
+
+This is where you capture:
+
+MR Requests
+
+Revenue
+
+Budget Summary Metrics
+
+Other discussion points
+
+
+And underneath each topic:
+
+Decision / Follow-up: ...
+
+↓
+
+4. Next Steps
+
+“What are we going to do now?”
+
+Show:
+
+Action
+
+Owner
+
+Due Date
+
+Status
+
+
+
+---
+
+Why this tells a better story
+
+Think of the MOM as a conversation:
+
+STARTING POINT
+
+2026 Assumptions
+
+> “Here is the current business context.”
+
+
+
+WHAT WE SEE
+
+Optimization & Risk
+
+> “Here are the opportunities and things we need to be careful about.”
+
+
+
+WHAT WE DISCUSSED
+
+Client Discussion
+
+> “Here is what the client and team discussed based on those areas.”
+
+
+
+WHAT WE WILL DO
+
+Next Steps
+
+> “Here are the actions coming out of the meeting.”
+
+
+
+So the story becomes:
+
+> Where are we? → What can we improve / what is the concern? → What did we discuss? → What are we doing next?
+
+
+
+That is a very natural business-review story.
+
+
+---
+
+I would structure your actual page like this
+
+CLIENT / SUPERPAYER NAME
+Business Review — Minutes of Meeting
+
+Attendees
+
+
+---
+
+01 | 2026 ASSUMPTIONS
+
+Conversion Rate | Fee Rate | Contract Date
+
+Source: 2026 Assumptions tab...
+
+
+---
+
+02 | OPTIMIZATION & RISK
+
+🟢 Opportunity
+
+Expansion
+
+LOB: Medicaid
+Status | In Dynamics | OA Completed | Notes
+
+LOB: Medicare
+Status | Target Date | In Dynamics | OA Completed | Notes
+
+🔴 Risk
+
+Risk details...
+
+
+---
+
+03 | CLIENT DISCUSSION
+
+MR Requests
+Discussion...
+
+Decision / Follow-up: ...
+
+Revenue
+Discussion...
+
+Decision / Follow-up: ...
+
+Budget Summary Metrics
+Discussion...
+
+Decision / Follow-up: ...
+
+
+---
+
+04 | NEXT STEPS
+
+Action	Owner	Due Date	Status
+
+
+
+
+---
+
+One alternative I would consider
+
+If your Client Discussion is the most important part of the meeting, you could instead use:
+
+2026 Assumptions → Client Discussion → Optimization & Risk → Next Steps
+
+This tells a slightly different story:
+
+> What are the facts? → What did the client say? → What opportunities/risks came out of that discussion? → What do we do?
+
+
+
+I would choose this version only if your Optimization/Risk information is derived directly from the client discussion.
+
+For your case, though, I prefer:
+
+2026 Assumptions → Optimization & Risk → Client Discussion → Next Steps
+
+because your Optimization and Risk data comes from Excel, while Client Discussion comes directly from the meeting.
+
+So you're essentially showing:
+
+Excel-based business context → Meeting discussion → Action
+
+That's clean and logical.
+
+My final recommendation
+
+Keep your flow, but rename “Optimization” to:
+
+> OPTIMIZATION & RISK
+
+
+
+and make Opportunity and Risk sub-sections.
+
+This gives you a stronger story without unnecessarily changing the template you've already built.
+
+Yes — if you mean “Client Discussion → 2026 Assumptions → Optimization → Next Steps,” I agree that flow is not the strongest for your MOM.
+
+The main issue is that it starts with what was discussed, and only afterward gives the reader the business information needed to understand that discussion.
+
+Think of it like a story
+
+You want the reader to understand:
+
+1. What is the situation?
+→ 2026 Assumptions
+
+2. What does this situation mean for the business?
+→ Optimization & Risk
+
+3. What did we discuss with the client about it?
+→ Client Discussion
+
+4. What are we going to do?
+→ Next Steps
+
+So I recommend:
+
+2026 Assumptions → Optimization & Risk → Client Discussion → Next Steps
+
+Why?
+
+2026 Assumptions
+First establish the facts: conversion rate, fee rate, contract date, etc.
+
+↓
+
+Optimization & Risk
+Then show what those facts mean: where there is an opportunity and where there is a concern.
+
+↓
+
+Client Discussion
+Now record what the client actually discussed regarding those business areas.
+
+↓
+
+Next Steps
+Finally, capture what needs to happen after the meeting.
+
+
+---
+
+Why not Client Discussion first?
+
+Imagine someone opens the MOM and the first point says:
+
+> Revenue: Client discussed revenue performance.
+
+
+
+The reader may immediately wonder:
+
+> “What was the business context? What assumptions are we working with?”
+
+
+
+If you show the assumptions first, the later discussion has context.
+
+
+---
+
+Why not put Next Steps before Client Discussion?
+
+Because the reader should understand why the action is required before seeing the action.
+
+For example:
+
+> Discussion: Medicare expansion was discussed.
+Decision: Further evaluation required.
+Next Step: Complete assessment by September.
+
+
+
+That creates a clear chain:
+
+Context → Discussion → Decision → Action
+
+
+---
+
+The best overall story for your MOM
+
+I would actually think of your MOM as:
+
+> BASELINE → INSIGHT → CONVERSATION → ACTION
+
+
+
+Section	Answers
+
+2026 Assumptions	“What are the current business facts?”
+Optimization & Risk	“What opportunities and concerns do we see?”
+Client Discussion	“What did we discuss about them?”
+Next Steps	“What are we going to do?”
+
+
+That is why 2026 Assumptions → Optimization & Risk → Client Discussion → Next Steps is the strongest flow for the information you have.
+Yes. The easiest way to justify it is to say that the MOM should follow the natural order of a business conversation.
+
+Recommended flow
+
+1. 2026 Assumptions → 2. Optimization & Risk → 3. Client Discussion → 4. Next Steps
+
+Think of it as:
+
+> What do we know? → What does it mean? → What did we discuss? → What will we do?
+
+
+
+
+---
+
+1. 2026 Assumptions — What do we know?
+
+First, we show the basic business information:
+
+Conversion rate
+
+Fee rate
+
+Contract date
+
+
+These are the starting facts for the meeting.
+
+So the reader first understands the situation before reading anything else.
+
+Simple reason:
+
+> “We show the assumptions first because they give the background needed to understand the rest of the MOM.”
+
+
+
+
+---
+
+2. Optimization & Risk — What does it mean?
+
+After knowing the assumptions, we show:
+
+Where there is an opportunity
+
+Where there is a risk
+
+Expansion
+
+Medicaid
+
+Medicare
+
+
+This tells the reader:
+
+> “Based on the current situation, what should we focus on?”
+
+
+
+Simple reason:
+
+> “Optimization and Risk come next because they explain what is good to improve and what needs attention based on the business situation.”
+
+
+
+
+---
+
+3. Client Discussion — What did we discuss?
+
+Now we document what actually happened in the meeting:
+
+MR Requests
+
+Revenue
+
+Budget Summary Metrics
+
+Other discussion points
+
+
+At this point, the reader already knows the business background and the opportunities/risks.
+
+So the discussion makes more sense.
+
+Simple reason:
+
+> “Client Discussion comes after the business information because the reader can understand the discussion better when they already know the background and key areas.”
+
+
+
+
+---
+
+4. Next Steps — What will we do?
+
+Finally, we show:
+
+Action
+
+Owner
+
+Due date
+
+Status
+
+
+This is the outcome of everything above.
+
+Simple reason:
+
+> “Next Steps comes last because it summarizes what needs to be done after understanding the situation and discussion.”
+
+
+
+
+---
+
+Why the other flows are not as good
+
+❌ Client Discussion → 2026 Assumptions → Optimization → Next Steps
+
+The problem is that you start with the conversation before giving the background.
+
+It's like someone tells you:
+
+> “The client wants us to change the revenue plan.”
+
+
+
+And only afterward explains the conversion rate, fee rate and contract information.
+
+You may think:
+
+> “Why do they want to change it?”
+
+
+
+So the story feels backwards.
+
+
+---
+
+❌ 2026 Assumptions → Client Discussion → Optimization → Next Steps
+
+This is better, but still not ideal.
+
+You give the background and then jump directly into the discussion.
+
+The reader doesn't first see:
+
+> What opportunities or risks are we looking at?
+
+
+
+So Optimization coming after Client Discussion can feel like the analysis is coming after the conversation, instead of providing context for it.
+
+
+---
+
+❌ Optimization → 2026 Assumptions → Client Discussion → Next Steps
+
+This starts with the conclusion before explaining the background.
+
+The reader sees:
+
+> “There is an expansion opportunity.”
+
+
+
+But then has to go backward to understand the assumptions behind it.
+
+It's less natural.
+
+
+---
+
+❌ 2026 Assumptions → Optimization → Next Steps → Client Discussion
+
+This is not ideal because Next Steps come before the reader knows what was actually discussed.
+
+It is like saying:
+
+> “Here is what we're going to do.”
+
+
+
+and then afterward:
+
+> “Here is what we talked about.”
+
+
+
+The discussion should normally come before the action.
+
+
+---
+
+The easiest justification to remember
+
+If your manager asks “Why did you keep this order?”, simply say:
+
+> “I arranged it in the order of a natural business story. First, we show the 2026 assumptions so the reader understands the current situation. Then we show the opportunities and risks based on that situation. After that, we capture what was discussed with the client. Finally, we show the next steps coming out of the discussion.”
+
+
+
+Or even shorter:
+
+> “First we give the context, then the business insights, then the discussion, and finally the action.”
+
+
+
+So the flow is:
+
+2026 ASSUMPTIONS
+↓ What is the situation?
+
+OPTIMIZATION & RISK
+↓ What should we focus on?
+
+CLIENT DISCUSSION
+↓ What did we discuss?
+
+NEXT STEPS
+↓ What will we do?
+
+This is why this flow feels natural and the other flows feel slightly out of order.
