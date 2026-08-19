@@ -1,0 +1,516 @@
+https://chatgpt.com/share/6a552420-307c-83ee-8672-3bf856a1be72?ogimg=plain
+
+
+I need script for ppt for a call
+where the first slide is payer name
+Second is appendix slide as first image
+3rd slide is for metrics requested which the metrics name and text 2027 Op Plan (budget) is (Variance) compared to 2026 along with
+There is two kpi card one for 2025 which contains variance compared to Op Plan, actual number,Op Plan number with its montly Average the other kpi card is same like first but for 2026 (kpi cards are like second image) below it is 3 clustered column chart one for 2025 other for 2026 other 2027 where 2025 and 2026 has bars but 2027 does not have bars there is straight budget Line for all 3 Charts. There is 3 kpi card(year over year growth) below chart one for 2025 vs 2024 other for 2026 vs 2025 other for 2027 vs 2026 ,which contains variance for actuals .like requested there is slide for revenue ,gross id ,recoveries
+There is also assumptions slide which contains Client assumptions which has fee rate ,contract end date ,pass position for that payer
+There is 2027 audit type split for requested which has 5 audit types with 2027 total and it's monthly Average
+There is opportunities and Risk
+The other slide Client metrics feedback which has different category with its update
+There is summary slide which contains a table which has metrics ,2026 ye projection total,2026 projection avg/month,2027 ye projection total,2027 projection avg/month,variance for 2025 vs 2026 and variance for 2027 vs 2026
+The last slide is glossary slide
+
+Absolutely. Based on your PPT structure and the two reference visuals, I would make the call script story-driven, so you are not just reading the slides. The flow should be:
+
+Payer → What we will cover → 2026/2027 performance → Why/assumptions → Client feedback → Overall summary → Glossary
+
+Here is a natural script you can use during the call.
+
+Client OP Plan – Call Script
+
+Slide 1 – Payer Name / Title Slide
+
+“Good [morning/afternoon], everyone.
+
+Today I’ll walk you through the OP Plan and the key metrics for [Payer Name].
+
+We’ll look at the current performance, the 2026 year-end projection, the 2027 OP Plan, the key assumptions behind the plan, and the feedback and opportunities that may impact the outlook.”
+
+Transition:
+
+“Before getting into the individual metrics, I’ll quickly show the overall structure of the discussion.”
+
+---
+
+Slide 2 – Appendix / Agenda
+
+“This slide gives an overview of what we’ll cover today.
+
+We’ll start with the key performance metrics, including Charts Requested, Net Revenue, Gross ID, and Recoveries.
+
+Then we’ll move into the assumptions behind the 2027 plan, followed by client metrics feedback, where we’ll cover the latest updates, opportunities, and risks.
+
+Finally, we’ll bring everything together in the summary table, which gives us a consolidated view of the 2026 projection and 2027 OP Plan.
+
+We’ll also have the glossary at the end for reference.”
+
+Transition:
+
+“So with that overview, let’s start with the first and primary metric — Charts Requested.”
+
+---
+
+Slide 3 – Charts Requested
+
+Opening / Key Message
+
+“Starting with Charts Requested, the key message on this slide is that the 2027 OP Plan is [X]K, which represents a [X]% change compared with 2026.”
+
+If positive:
+
+“The increase indicates that the 2027 plan is expecting higher chart volumes compared with the 2026 outlook.”
+
+If negative:
+
+“The decrease indicates that the 2027 plan is expecting lower chart volumes compared with the 2026 outlook.”
+
+---
+
+2025 KPI Card
+
+“Looking first at 2025, we had actual volume of [X]K, compared with an OP Plan of [X]K.
+
+That represents a [X]% variance versus the OP Plan.
+
+The OP Plan translates to approximately [X]K per month, so this gives us the monthly baseline against which we can look at the actual performance.”
+
+---
+
+2026 KPI Card
+
+“Moving to 2026, we currently have [X] actual months and [X] forecast months, giving us a year-end projection of approximately [X]K.
+
+The 2026 OP Plan is [X]K, or approximately [X]K per month.
+
+So overall, the 2026 year-end projection is [X]% [above/below] the OP Plan.”
+
+---
+
+Three Charts – 2025, 2026, 2027
+
+“Looking at the monthly trend below, the 2025 chart shows the actual monthly performance against the OP Plan line.
+
+For 2026, we have both actual and forecast represented. The actual months show what has already been delivered, while the remaining months represent the forecast.
+
+For 2027, because we are looking at the OP Plan, we are showing the budget/plan line rather than actual bars. This gives us a clear view of the expected monthly run rate for 2027.”
+
+---
+
+Three YoY KPI Cards
+
+“Below the charts, we also have the year-over-year comparison.
+
+The first card compares 2025 versus 2024.
+
+The second compares 2026 versus 2025.
+
+And the third compares 2027 versus 2026.
+
+The arrows make the direction easy to read — green indicates an increase and red indicates a decrease.”
+
+---
+
+Key Takeaway
+
+“So, the overall takeaway from Charts Requested is that [state the main trend in one sentence].
+
+The 2027 plan is therefore based on [higher/lower/stable] volume compared with the 2026 projection.”
+
+Transition:
+
+“Now that we’ve looked at the volume outlook, let’s move to the financial impact through Net Revenue.”
+
+---
+
+Slide 4 – Net Revenue
+
+“Moving to Net Revenue, the structure of the slide is the same, so we can directly compare the historical performance, the 2026 projection, and the 2027 OP Plan.
+
+The key message here is that the 2027 OP Plan is [X]K, representing a [X]% change compared with the 2026 projection.
+
+For 2025, actual net revenue was [X]K, against an OP Plan of [X]K, resulting in a [X]% variance.
+
+For 2026, the year-end projection is [X]K, based on the actual and forecast months, compared with the OP Plan of [X]K.
+
+And for 2027, the plan is [X]K.
+
+So the important point is that the volume outlook we saw on the previous slide translates into [higher/lower] financial impact here.”
+
+Transition:
+
+“Next, we’ll look at Gross ID to understand the gross dollars identified.”
+
+---
+
+Slide 5 – Gross ID
+
+“Moving to Gross ID, this shows the total dollars identified before considering the recovery component.
+
+The 2027 OP Plan is [X]K, which is [X]% [above/below] the 2026 projection.
+
+For 2025, we delivered [X]K versus an OP Plan of [X]K.
+
+For 2026, the year-end projection is [X]K, based on the actual and forecast months.
+
+The monthly charts help us see whether the performance is driven by a few specific months or whether the trend is relatively consistent throughout the year.
+
+The year-over-year cards then summarize how that performance is changing over time.”
+
+Transition:
+
+“Finally, within the core metrics, we’ll look at Recoveries.”
+
+---
+
+Slide 6 – Recoveries
+
+“Here we’re looking at Recoveries, which represents the dollars actually recovered.
+
+The 2027 OP Plan is [X]K, compared with the 2026 projection of [X]K, giving us a [X]% year-over-year change.
+
+The 2025 and 2026 cards show how actual performance compared with their respective OP Plans, while the monthly charts show the underlying trend.
+
+The important takeaway here is [state whether recovery is improving, declining, or remaining stable].
+
+This gives us the financial outcome that we can connect back to the volumes and assumptions we discussed earlier.”
+
+Transition:
+
+“Now that we’ve covered the core performance metrics, let’s look at the assumptions that are supporting the 2027 plan.”
+
+---
+
+Slide 7 – Assumptions
+
+“This slide summarizes the key assumptions we are using for the 2027 plan for [Payer Name].
+
+There are three main client-specific assumptions here:
+
+First, the fee rate, which is [X].
+
+Second, the contract end date, which is [date].
+
+And third, the pass position, which is [X].
+
+These assumptions are important because changes in any of these areas could impact the 2027 outlook.”
+
+---
+
+2027 Audit Type Split
+
+“Below that, we have the 2027 audit-type split for Charts Requested.
+
+This shows the expected volume across the five audit types.
+
+For each audit type, we have the projected 2027 total as well as the average monthly volume.
+
+This helps us understand not only the overall 2027 volume, but also where that volume is expected to come from.”
+
+---
+
+Opportunities and Risks
+
+“From an opportunities and risks perspective, the main opportunities are [opportunity 1] and [opportunity 2].
+
+On the risk side, the key items are [risk 1] and [risk 2].
+
+These are important considerations when we look at whether the 2027 plan is achievable and what could cause the actual performance to move away from the current plan.”
+
+Transition:
+
+“Along with these assumptions, we also wanted to capture the latest feedback from the client-facing teams.”
+
+---
+
+Slide 8 – Client Metrics Feedback
+
+“This slide captures the latest client metrics feedback.
+
+We’ve grouped the updates by category so that we can clearly see what is changing and what actions are currently in motion.
+
+The key areas include [category 1], [category 2], and [category 3].
+
+For each category, the update tells us what has changed, what is currently being discussed, and whether there is a potential impact on the plan.
+
+So this slide is essentially the bridge between the numbers we’ve seen and the real-world client discussions behind those numbers.”
+
+---
+
+Slide 9 – Summary Table
+
+“Finally, this summary table brings the key metrics together in one place.
+
+For each metric, we have the 2026 year-end projection total, the 2026 average monthly projection, the 2027 OP Plan total, and the 2027 average monthly plan.
+
+The final two columns show the year-over-year changes:
+
+2026 versus 2025, and 2027 versus 2026.
+
+This allows us to quickly compare the scale and direction of the plan across all the metrics.
+
+Looking across the table, the main takeaway is [overall takeaway].
+
+The metrics that show the biggest increase are [metrics], while [metrics] show a decline or relatively flat outlook.
+
+So overall, this gives us the consolidated view of where we expect the business to land in 2026 and where we are planning to go in 2027.”
+
+---
+
+Slide 10 – Glossary
+
+“This final slide is the glossary for reference.
+
+It provides definitions for the key terms and abbreviations used throughout the presentation.
+
+We can use this as a reference point if there are any questions around the terminology or specific metrics.”
+
+---
+
+Closing the Call
+
+“To summarize, we looked at the current performance across the key metrics, the 2026 year-end projection, and the 2027 OP Plan.
+
+We then walked through the assumptions supporting the plan, the audit-type mix, the opportunities and risks, and the latest client feedback.
+
+The main message is that [one-sentence overall conclusion].
+
+That concludes the overview from our side. We’re happy to discuss any of the individual metrics, assumptions, or client feedback items in more detail.”A small but important point for your call
+
+Don't read every number from the slide. For each metric, use this same simple speaking pattern:
+
+1. What is the 2027 plan?
+→ “2027 OP Plan is 151.9K, +7% vs 2026.”
+
+2. How did 2025 perform?
+→ “2025 actual was 140.4K vs 119.8K budget, so +17% vs budget.”
+
+3. Where is 2026 heading?
+→ “2026 is projected at 141.3K vs 172.6K budget, so -18%.”
+
+4. What does the monthly chart tell us?
+→ Actual months + forecast months + budget line.
+
+5. What does the YoY card tell us?
+→ “2027 is +7% vs 2026.”
+
+6. What's the business takeaway?
+→ One sentence connecting the numbers to the plan.
+
+This will make the presentation sound like you are explaining the business story, rather than simply reading the PowerPoint.
+
+
+
+The order of slide is payer name slide,appendix, requested, revenue assumptions, Client metrics feedback,summary,gross id ,recoveries,glossary
+
+Yes. With the correct slide order, I would structure the call script like this:
+
+1. Payer Name
+
+
+2. Appendix
+
+
+3. Charts Requested
+
+
+4. Net Revenue
+
+
+5. Assumptions
+
+
+6. Client Metrics Feedback
+
+
+7. Summary
+
+
+8. Gross ID
+
+
+9. Recoveries
+
+
+10. Glossary
+
+
+
+The story now becomes: who the payer is → what we're covering → volume → financial impact → assumptions → client context → overall summary → supporting financial metrics → reference.
+
+1. Payer Name
+
+“Today, we’ll walk through the 2026 outlook and 2027 OP Plan for [Payer Name].
+
+We’ll cover the key operating metrics, the assumptions behind the 2027 plan, current client feedback, and finally the overall summary.”
+
+Transition:
+“Before we get into the details, let me quickly walk through the structure of the discussion.”
+
+2. Appendix
+
+“This is the overall structure of the presentation.
+
+We’ll start with Charts Requested, followed by Net Revenue. Then we’ll go through the key assumptions and client metrics feedback.
+
+After that, we’ll summarize the overall outlook and then look at Gross ID and Recoveries before closing with the glossary.”
+
+Transition:
+“Let’s start with Charts Requested, which gives us the volume view.”
+
+
+---
+
+3. Charts Requested
+
+“This slide gives us the volume outlook across 2025, 2026 and 2027.
+
+The key message is that the 2027 OP Plan is [X]K, which is [X]% compared with the 2026 year-end projection.
+
+For 2025, actual performance was [X]K versus an OP Plan of [X]K, resulting in a [X]% variance versus plan.
+
+For 2026, we have [X] actual months and [X] forecast months, giving us a year-end projection of [X]K, compared with the OP Plan of [X]K.
+
+The monthly charts help us see the actual performance, the remaining forecast, and the budget run rate.
+
+For 2027, we're showing the OP Plan as the budget/run-rate view since we don't have actual performance for that year yet.
+
+The YoY cards below then show how the actual or planned volume is changing year over year.”
+
+Transition:
+“Now that we've established the volume outlook, let's look at how that translates into revenue.”
+
+
+---
+
+4. Net Revenue
+
+“Moving to Net Revenue, we're looking at the financial impact of the volume outlook.
+
+For 2025, actual revenue was [X]K versus [X]K OP Plan, giving us a [X]% variance.
+
+For 2026, the year-end projection is [X]K, compared with an OP Plan of [X]K.
+
+And for 2027, the plan is [X]K, which represents [X]% growth or decline versus 2026.
+
+So the main takeaway here is [higher/lower] revenue expectation in 2027 compared with the 2026 projection.”
+
+Transition:
+“Before we interpret the numbers further, let's look at the assumptions supporting this outlook.”
+
+
+---
+
+5. Assumptions
+
+“This slide outlines the key assumptions behind the 2027 plan for this payer.
+
+The main client assumptions are the fee rate, contract end date, and pass position.
+
+These are important because they directly influence how we're building the 2027 outlook.
+
+We also have the 2027 audit-type split, which shows how the requested volume is expected to be distributed across the five audit types.
+
+For each audit type, we're showing both the 2027 total and the monthly average.
+
+We also have the key opportunities and risks that could either support the plan or create potential downside.”
+
+Transition:
+“Along with these planning assumptions, we also have some current client-facing updates that are important to consider.”
+
+
+---
+
+6. Client Metrics Feedback
+
+“This slide captures the latest feedback from the client-facing teams.
+
+We've organized the feedback by category so we can clearly see what is currently being discussed or changed.
+
+These updates include areas such as pricing or fee changes, limits, new product discussions, and expansion opportunities, depending on the payer.
+
+The purpose of this slide is to connect the plan numbers with what's actually happening in the client discussion.
+
+So these are the items we should keep in mind when evaluating the 2027 outlook.”
+
+Transition:
+“Now that we've covered the performance, assumptions, and client context, let's bring everything together in the summary.”
+
+
+---
+
+7. Summary
+
+“This table gives us the consolidated view across all the key metrics.
+
+For each metric, we have the 2026 year-end projection, the 2026 average per month, the 2027 OP Plan, and the 2027 average per month.
+
+The last two columns show the year-over-year change — 2026 versus 2025 and 2027 versus 2026.
+
+This allows us to quickly see which metrics are growing, which are declining, and where the biggest changes are expected.
+
+The overall takeaway from the summary is [your main business takeaway].”
+
+Transition:
+“Now let's go into the remaining financial metrics, starting with Gross ID.”
+
+
+---
+
+8. Gross ID
+
+“Gross ID represents the total dollars identified.
+
+The 2026 projection is [X]K, compared with the 2027 OP Plan of [X]K, representing [X]% change.
+
+The monthly view helps us understand how the dollars identified are trending throughout the year.
+
+The year-over-year comparison also shows whether we're expecting the level of identification to increase or decrease going into 2027.
+
+The key takeaway here is [one-sentence takeaway].”
+
+Transition:
+“Finally, let's look at how much of that translates into actual Recoveries.”
+
+
+---
+
+9. Recoveries
+
+“Recoveries represent the dollars actually recovered.
+
+For 2026, we're projecting [X]K, while the 2027 OP Plan is [X]K.
+
+That's a [X]% change compared with 2026.
+
+Looking at the monthly trend and the year-over-year comparison, we can see [main trend].
+
+So the key takeaway is [one-sentence recovery takeaway].”
+
+Transition:
+“That brings us to the end of the main content. I'll close with the glossary for reference.”
+
+
+---
+
+10. Glossary
+
+“This final slide provides definitions for the key terms and abbreviations used throughout the presentation.
+
+It can be used as a reference if there are any questions around the terminology or metrics.”
+
+The overall story you're telling
+
+Your presentation will sound much more logical if you think of it this way:
+
+Payer → What we're discussing → Volume → Revenue → What assumptions are driving it → What is the client saying → Overall picture → Gross dollars → Actual recoveries → Reference
+
+So you're essentially answering:
+
+> “What is the payer's outlook, what is driving that outlook, what does the client context tell us, and what is the final financial impact?”
+
+
+
+That is a strong flow for a client/leadership call.
