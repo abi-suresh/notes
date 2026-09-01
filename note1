@@ -583,3 +583,10 @@ NEXT STEPS
 ↓ What will we do?
 
 This is why this flow feels natural and the other flows feel slightly out of order.
+
+
+
+I would like to acknowledge and clarify the issue identified during the QC of the KPI card data in the recent PowerPoint presentation.
+While reviewing the KPI card, I observed that the Actual and Forecast values were the same for the forecast months in one of the metrics. Based on this, I used the summary value on the left side as a reference while validating the data. However, I did not notice that the Actual and Forecast values were different for the forecast period in the other metrics. I continued to rely on the summary values without realizing that these were calculated based only on the Actual row.
+As a result, the summary values presented in the PPT were incorrect, and I missed identifying this discrepancy during my QC.
+I understand that this was an oversight on my part, and I take responsibility for it. Going forward, I will ensure that the Actual and Forecast rows are validated separately for every metric and will cross-check the summary values against the underlying data rather than relying on the summary alone.
