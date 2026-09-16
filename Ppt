@@ -1,0 +1,776 @@
+Yes. Since you have month-wise values, you can make the PPT much more insightful than simply saying “2027 is +X%.” The key is to explain what is driving the change.
+
+Your business flow is:
+
+Claims Selected → Medical Records Requested → Gross ID → Recoveries → Revenue
+
+So your story should connect the metrics like a funnel:
+
+> How much volume are we sending into the process → how much value are we identifying → how much are we recovering → what revenue/profit does that generate?
+
+
+
+
+---
+
+1. Charts Requested — What should you say?
+
+For this slide, don't just talk about the yearly total.
+
+Look at the monthly pattern.
+
+Things you can identify
+
+A. Volume trend
+
+Compare the beginning, middle and latest months.
+
+For example:
+
+> “The 2026 volume has remained relatively consistent through the year, with a higher run rate in the later months.”
+
+
+
+Or:
+
+> “We see a gradual increase in monthly chart requests, which is contributing to the higher 2026 year-end projection.”
+
+
+
+B. Peak / low months
+
+If one or two months are much higher:
+
+> “The projection is being driven primarily by higher volumes in [Month] and [Month], where requests were above the normal monthly run rate.”
+
+
+
+If there is a dip:
+
+> “There is a temporary dip in [Month], but the following months recover toward the expected run rate.”
+
+
+
+C. 2027 driver
+
+Compare 2027 monthly budget with 2026 monthly projection.
+
+Say:
+
+> “The 2027 plan assumes a monthly run rate of approximately X, compared with X in 2026. The increase is therefore primarily volume-driven.”
+
+
+
+This is a much stronger statement than simply saying “2027 is +X%.”
+
+
+---
+
+2. Net Revenue — What is driving revenue?
+
+Here you should connect volume → revenue.
+
+Your logic is:
+
+More claims/charts → more opportunities → more savings → more revenue
+
+You can say:
+
+> “The revenue outlook is primarily driven by the projected chart volume and the corresponding savings opportunity. The increase in monthly volume supports the higher revenue expectation for 2027.”
+
+
+
+But there is an important second driver:
+
+Revenue per chart
+
+Calculate:
+
+Revenue per Chart = Revenue ÷ Charts Requested
+
+Then you can determine whether revenue is increasing because of more volume or because of better monetization/value per chart.
+
+For example:
+
+> “While chart volume increased by X%, revenue increased by Y%. This indicates that the revenue growth is not solely volume-driven; revenue generated per chart also changed.”
+
+
+
+That's a very useful executive insight.
+
+
+---
+
+3. Assumptions — Explain the "why" behind 2027
+
+This slide is where you explain why the 2027 monthly plan is what it is.
+
+For example:
+
+> “The 2027 volume assumption is based on the current client fee structure, contract end date, pass position, and the expected mix across audit types.”
+
+
+
+Then connect the audit mix:
+
+> “Within the 2027 plan, [Audit Type A] contributes the largest share of the projected volume, followed by [Audit Type B]. Therefore, changes in these audit types would have the largest impact on the overall plan.”
+
+
+
+This is an important insight.
+
+Don't just show:
+
+Audit Type	2027 Total	Avg/Month
+
+Type A	50K	4.2K
+Type B	30K	2.5K
+
+
+Also calculate:
+
+Audit Type % of Total = Audit Type Volume ÷ Total 2027 Volume
+
+Then say:
+
+> “Type A represents approximately X% of the 2027 planned volume, making it the largest contributor to the overall plan.”
+
+
+
+
+---
+
+4. Client Metrics Feedback — Connect feedback to numbers
+
+This slide should answer:
+
+> “Is there anything happening with the client that could explain or change our numbers?”
+
+
+
+For example, if feedback says:
+
+New product discussion
+
+You can say:
+
+> “The potential new product discussion represents an upside opportunity because it could increase the addressable volume beyond the current 2027 assumption.”
+
+
+
+If there is a limit reduction:
+
+> “The proposed limit change represents a potential downside risk because it could reduce the volume available for audit.”
+
+
+
+If there is a pricing/fee change:
+
+> “Any change in the fee structure could impact revenue even if the underlying chart volume remains unchanged.”
+
+
+
+This makes the slide meaningful rather than just a list of updates.
+
+
+---
+
+5. Summary — Give the executive story
+
+Your summary table has:
+
+2026 YE Projection
+
+2026 Avg/Month
+
+2027 YE Projection
+
+2027 Avg/Month
+
+26–25 Δ
+
+27–26 Δ
+
+
+Don't read every row.
+
+Instead say:
+
+> “Looking across the summary, the 2027 plan reflects a [X]% change in Charts Requested, [X]% change in Gross ID, [X]% change in Recoveries, and [X]% change in Revenue versus the 2026 projection.”
+
+
+
+Then explain the relationship:
+
+> “The key point is whether the financial metrics are moving in line with volume.”
+
+
+
+For example:
+
+If volume +10% and revenue +10%
+
+> “Revenue growth is broadly in line with the volume growth, suggesting the plan is primarily volume-driven.”
+
+
+
+If volume +10% but revenue +20%
+
+> “Revenue is growing faster than volume, indicating that value/revenue per chart is also contributing to the increase.”
+
+
+
+If volume +10% but revenue +3%
+
+> “Revenue is growing slower than volume, suggesting that the value generated per chart is lower in the 2027 plan.”
+
+
+
+That is exactly the kind of “what is driving it?” insight you want in your call.
+
+
+---
+
+6. Gross ID — This is where your monthly data becomes really useful
+
+You said:
+
+> Gross ID = savings before invoicing
+
+
+
+So don't just discuss Gross ID as a dollar amount.
+
+Calculate:
+
+Gross ID per Chart
+
+Gross ID ÷ Medical Records Requested
+
+or, depending on how your process works:
+
+Gross ID ÷ Claims Selected
+
+Then you can understand whether Gross ID is being driven by:
+
+1. More volume
+
+
+2. More savings per case
+
+
+
+Example
+
+Suppose:
+
+	2026	2027
+
+Records Requested	100K	110K
+Gross ID	500K	600K
+Gross ID / Record	$5	$5.45
+
+
+You can say:
+
+> “Gross ID is increasing by 20%, while requested volume is increasing by 10%. This indicates that the growth is being driven by both higher volume and higher savings generated per requested record.”
+
+
+
+That's a much stronger insight.
+
+
+---
+
+7. Recoveries — Explain the conversion from identified savings
+
+Since:
+
+> Recoveries = savings after invoicing
+
+
+
+You can introduce a very useful metric:
+
+Recovery Rate
+
+Recovery Rate =
+Recoveries ÷ Gross ID
+
+This tells you:
+
+> Of the savings we identified, how much ultimately becomes recovered savings?
+
+
+
+For example:
+
+	2026	2027
+
+Gross ID	500K	600K
+Recoveries	400K	480K
+Recovery Rate	80%	80%
+
+
+You can say:
+
+> “Recoveries are increasing in line with Gross ID, while the recovery rate remains broadly stable. This suggests the growth is primarily being driven by higher identified savings rather than a change in recovery efficiency.”
+
+
+
+If recovery rate falls
+
+For example:
+
+2026 = 80%
+
+2027 = 72%
+
+Say:
+
+> “Although Gross ID is increasing, the recovery rate is declining, so the increase in recoveries is partially offset by lower conversion of identified savings into recovered savings.”
+
+
+
+That's an excellent business insight.
+
+
+---
+
+8. Revenue — Connect everything together
+
+This is where you can tell the full story:
+
+Claims Selected
+       ↓
+Medical Records Requested
+       ↓
+Gross ID
+       ↓
+Recoveries
+       ↓
+Revenue
+
+Your presentation can say:
+
+> “At the top of the funnel, the number of claims selected and records requested determines the volume entering the process. That volume creates the Gross ID opportunity. Gross ID then converts into Recoveries after invoicing, and the resulting activity contributes to company revenue.”
+
+
+
+Then your monthly data tells you where the change is happening.
+
+
+---
+
+9. The 5 most useful calculations for your PPT
+
+I would add these to your analysis.
+
+① Volume Growth
+
+2027 Volume ÷ 2026 Volume - 1
+
+Tells you whether growth is volume-driven.
+
+
+---
+
+② Gross ID per Record
+
+Gross ID ÷ Medical Records Requested
+
+Tells you the average savings opportunity per record.
+
+
+---
+
+③ Recovery Rate
+
+Recoveries ÷ Gross ID
+
+Tells you how much identified savings converts into recovery.
+
+
+---
+
+④ Revenue per Record
+
+Revenue ÷ Medical Records Requested
+
+Tells you the revenue generated per unit of volume.
+
+
+---
+
+⑤ Monthly Run Rate
+
+Yearly Total ÷ Number of Months
+
+Use this to compare:
+
+2026 monthly projection vs 2027 monthly plan.
+
+
+---
+
+10. How to identify the "driver" from your monthly data
+
+This is the easiest framework to use while preparing the PPT.
+
+Look at 2026 → 2027.
+
+Case 1 — Volume increases
+
+Volume ↑
+Gross ID ↑
+Recoveries ↑
+Revenue ↑
+
+Say:
+
+> “The 2027 growth is primarily volume-driven.”
+
+
+
+
+---
+
+Case 2 — Volume stays similar, Gross ID increases
+
+Volume →
+Gross ID ↑
+
+Say:
+
+> “The increase in Gross ID is being driven by higher savings generated per record rather than increased volume.”
+
+
+
+
+---
+
+Case 3 — Gross ID increases but Recoveries don't
+
+Gross ID ↑
+Recoveries →
+
+Say:
+
+> “The higher identified savings are not translating proportionally into recoveries, indicating a lower recovery conversion.”
+
+
+
+
+---
+
+Case 4 — Recoveries increase but Revenue doesn't
+
+Recoveries ↑
+Revenue →
+
+Say:
+
+> “Recovery growth is not translating proportionally into revenue, so the revenue outlook is being influenced by factors beyond recovery volume.”
+
+
+
+You would then investigate the applicable fee/pricing structure.
+
+
+---
+
+11. Use monthly data to explain spikes
+
+For each chart, identify:
+
+Highest month → Lowest month → Recent trend → 2027 run rate
+
+For example:
+
+> “Monthly requests peaked in March at XK, followed by a decline in April. From May onward, volumes stabilized around XK per month. The 2027 plan assumes a higher average monthly run rate of XK.”
+
+
+
+This sounds much more analytical in a client call.
+
+
+---
+
+12. Your actual PPT speaking structure
+
+For every metric slide, use this 5-line story:
+
+Charts Requested
+
+> “2027 is X% vs 2026.”
+
+
+
+> “The change is primarily driven by [volume trend/audit type mix/client assumption].”
+
+
+
+> “2026 monthly volume is currently averaging X, with [peak/declining/stable] performance.”
+
+
+
+> “2027 assumes X per month.”
+
+
+
+> “The key risk/opportunity is [X].”
+
+
+
+Net Revenue
+
+> “2027 revenue is X% vs 2026.”
+
+
+
+> “The change is driven by [volume/revenue per chart/fee assumption].”
+
+
+
+> “Monthly revenue follows the [same/different] trend as requested volume.”
+
+
+
+> “The key assumption impacting revenue is [fee rate/etc.].”
+
+
+
+Gross ID
+
+> “2027 Gross ID is X% vs 2026.”
+
+
+
+> “Growth is driven by [higher volume/higher savings per record/both].”
+
+
+
+> “Gross ID per record is X versus X in 2026.”
+
+
+
+> “The key driver is [X].”
+
+
+
+Recoveries
+
+> “2027 Recoveries are X% vs 2026.”
+
+
+
+> “Gross ID is X, of which X is expected to convert to recoveries.”
+
+
+
+> “The recovery rate is X%, compared with X% previously.”
+
+
+
+> “Therefore, recovery growth is primarily driven by [higher Gross ID / improved recovery conversion].”
+
+
+
+
+---
+
+⭐ The strongest overall story for your call
+
+Don't treat Requested, Revenue, Gross ID and Recoveries as four separate slides.
+
+Treat them as one business funnel:
+
+> “We start with the volume entering the process through Claims Selected and Medical Records Requested. That volume creates the Gross ID opportunity, which represents savings before invoicing. Recoveries then represent the portion realized after invoicing, and Revenue reflects the resulting financial contribution to the company.”
+
+
+
+Then use your monthly data to answer:
+
+> “Is the change coming from more volume, more value per case, better recovery conversion, or the underlying fee/pricing assumptions?”
+
+
+
+That is the key framework I would use for your PPT because it turns your monthly numbers into a business story, rather than just presenting totals and percentages.
+
+
+Exactly. Then your business story is even clearer:
+
+Claims Selected → Medical Records Requested → Gross ID → Recoveries → Revenue
+
+But the important driver relationships are:
+
+> Gross ID drives Recoveries, and Recoveries drive Revenue.
+
+
+
+So for your PPT, I would explain the metrics like this:
+
+1. Charts Requested
+
+What drives it?
+Client volume / audit activity / audit-type mix / client assumptions.
+
+Say:
+
+> “The requested volume establishes the activity level entering the process. The 2027 plan assumes an average monthly volume of X compared with X in 2026.”
+
+
+
+2. Gross ID
+
+What drives it?
+Medical records requested → opportunities to identify savings.
+
+Say:
+
+> “The Gross ID outlook is driven by the volume of medical records requested and the savings identified from those records.”
+
+
+
+Then compare the monthly trend:
+
+> “The increase in Gross ID is primarily driven by the higher volume in [months/audit types].”
+
+
+
+3. Recoveries
+
+What drives it?
+Gross ID.
+
+This should be your main message:
+
+> “Gross ID is the key driver of Recoveries. As the amount of savings identified increases, the recovery opportunity also increases.”
+
+
+
+You can support this with:
+
+Recovery Rate = Recoveries ÷ Gross ID
+
+For example:
+
+> “Gross ID is projected to increase by X%, which supports the X% increase in Recoveries.”
+
+
+
+If the recovery rate changes:
+
+> “While Gross ID increases by X%, Recoveries increase by Y%, with the difference primarily reflected in the recovery conversion rate.”
+
+
+
+4. Revenue
+
+What drives it?
+Recoveries.
+
+Your key message:
+
+> “Recoveries are the primary driver of Revenue. Therefore, changes in the recovery outlook flow through to the revenue projection.”
+
+
+
+For example:
+
+> “The increase in Recoveries supports the higher Revenue outlook for 2027.”
+
+
+
+
+---
+
+The story you can show on the PPT
+
+I would actually put this as a small driver flow somewhere on the slides:
+
+Volume → Gross ID → Recoveries → Revenue
+
+And underneath:
+
+Medical Records       Savings identified       Savings recovered       Company profit
+Requested             before invoicing         after invoicing
+
+Then when presenting, you can say:
+
+> “The key relationship across these metrics is that volume creates the opportunity for Gross ID. Gross ID then drives the recovery opportunity, and Recoveries ultimately drive Revenue. So when we look at the 2027 outlook, we want to understand what is happening at each stage of this flow rather than looking at each metric independently.”
+
+
+
+Most importantly, when you have monthly data:
+
+Don't only ask “Which month is highest?”
+
+Ask these three questions:
+
+1. Did Gross ID increase when volume increased?
+→ Shows whether volume is driving Gross ID.
+
+2. Did Recoveries move with Gross ID?
+→ Shows whether Gross ID is translating into recoveries.
+
+3. Did Revenue move with Recoveries?
+→ Shows whether recoveries are translating into revenue.
+
+That gives you a very natural “what is driving the number?” story for the client call.
+
+
+
+Yes. For the PPT call, keep it very simple and conversational.
+
+The overall story
+
+> “The process starts with the number of medical records requested. These records create opportunities for us to identify savings, which is our Gross ID. Gross ID then drives the amount we can recover, and Recoveries ultimately drive the revenue to the company.”
+
+
+
+Charts Requested
+
+> “This shows the volume of medical records requested each month. The monthly trend helps us understand whether the overall volume is increasing, decreasing, or remaining stable.”
+
+
+
+Gross ID
+
+> “Gross ID is the savings we identify before invoicing. The amount of Gross ID is mainly driven by the volume of records requested. So, when the requested volume increases, we generally have more opportunity to identify savings.”
+
+
+
+Recoveries
+
+> “Recoveries are the savings we actually recover after invoicing. Gross ID drives Recoveries, so a higher Gross ID gives us a higher recovery opportunity.”
+
+
+
+Revenue
+
+> “Revenue is the profit contribution to the company. Recoveries drive Revenue, so when Recoveries increase, we expect Revenue to increase as well.”
+
+
+
+Very short version for the call
+
+You can remember just this:
+
+> “Volume drives Gross ID, Gross ID drives Recoveries, and Recoveries drive Revenue.”
+
+
+
+Then when looking at the monthly charts:
+
+> “So, when we see a change in the numbers, we look at the previous stage to understand what is driving that change.”
+
+
+
+For example:
+
+> “We see higher Recoveries in these months, which is supported by the higher Gross ID in the preceding activity.”
+
+
+
+This is simple enough to say naturally during the presentation without sounding like you're reading from the slide.
